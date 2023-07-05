@@ -2,8 +2,6 @@
 menu = ['americano', 'latte', 'mocha', 'yuza_tea', 'green_tea', 'choco_latte']
 price = [2000, 3000, 3000, 2500, 2500, 3000]
 
-# 문제 2-3. 주문 메서드      
-
 class Kiosk: 
     def __init__(self):
         # 문제 2-1의 답을 입력하세요. 
