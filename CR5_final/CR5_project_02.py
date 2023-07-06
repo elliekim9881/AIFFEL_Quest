@@ -4,7 +4,6 @@ price = [2000, 3000, 3000, 2500, 2500, 3000]
 
 class Kiosk: 
     def __init__(self):
-        # 문제 2-1의 답을 입력하세요. 
         self.menu = menu
         self.price = price
     # 메뉴 출력 메서드
